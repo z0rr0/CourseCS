@@ -7,3 +7,8 @@
 
 - [Задача](./lesson0_task.md)
 - [Решение](./lesson0_solution.md)
+
+## Урок 1
+
+- [Задача](./lesson1_task.md)
+- [Решение](./lesson1_solution.md)
