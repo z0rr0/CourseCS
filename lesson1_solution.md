@@ -32,7 +32,7 @@
 | Вид связи | Название команды или события из EventStorming | Название эндпоинта или название события в кодео |
 |---|---|---|
 | Синхронная HTTP | Команда - изменить условия задания | `/api/task/ID/update` |
-| Асинхронная event-driven | Event - | `SomethingEvent` |
+| Асинхронная event-driven | Event - условие задания изменено | `TaskConditionChanged` |
 | Синхронная HTTP | Команда - логин потенциального учителя | `/api/teacher/login` |
 | Асинхронная event-driven | Event - потенциальный учитель вошел в систему | `PotentialTeacherLoggedIn` |
 
